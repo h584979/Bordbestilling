@@ -31,6 +31,12 @@
 		content: none;
 	}
 
+	.titleAuth {
+		font-size: 2em;
+		margin-top: 2em;
+		margin-bottom: 2em;
+	}
+
 	table {
 		border-collapse: collapse;
 		border-spacing: 0;
@@ -2555,15 +2561,21 @@
 		margin: 0 0 1.5em 0;
 	}
 
+	header h1 {
+		font-size: 1em;
+		margin-top: -1em;
+		line-height:1.5em;
+	}
+
 	header h2 + p {
 		font-size: 1.25em;
-		margin-top: -1em;
+		margin-top: -2em;
 		line-height: 1.5em;
 	}
 
 	header h3 + p {
 		font-size: 1.1em;
-		margin-top: -0.8em;
+		margin-top: -1.8em;
 		line-height: 1.5em;
 	}
 
